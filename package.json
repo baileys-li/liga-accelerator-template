@@ -1,13 +1,8 @@
 {
   "name": "Liga-A-accelerator-template",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "type": "module",
   "description": "Стартовый шаблон сборки Лиги А",
-  "browserslist": [
-    "last 3 versions",
-    "IE 11",
-    "Firefox ESR"
-  ],
   "scripts": {
     "editorconfig": "editorconfig-cli",
     "stylelint": "stylelint \"source/sass/**/*.scss\" --syntax scss",
